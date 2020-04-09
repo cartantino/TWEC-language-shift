@@ -21,3 +21,8 @@ Development of **TWEC** method *[Palmonari et al.]* with Language shift
 ## Go deep
 If you want to know more about this project please have a look at the presentation.
 
+## Contact us
++ c.carta4@campus.unimib.it
++ h.amrani@campus.unimib.it
++ s.vitali@campus.unimib.it
+
